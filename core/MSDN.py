@@ -4,7 +4,7 @@ Created on Thu Jul  4 17:39:45 2019
   
 @author: badat  
 """  
-import tensorflow as tf
+# import tensorflow as tf
 import torch  
 import torch.nn as nn  
 import torch.nn.functional as F  
